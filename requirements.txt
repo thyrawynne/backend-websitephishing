@@ -114,7 +114,6 @@ pytest==8.3.4
 python-dateutil==2.9.0.post0
 python-slugify==8.0.4
 PyYAML==6.0.2
-pyzmq==24.0.1
 referencing==0.35.1
 regex==2024.11.6
 requests==2.32.3
