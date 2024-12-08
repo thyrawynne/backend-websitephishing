@@ -510,4 +510,3 @@ xyzservices==2024.9.0
 yarl==1.18.3
 yellowbrick==1.5
 yfinance==0.2.50
-zipp==3.21.0
