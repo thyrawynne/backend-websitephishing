@@ -108,9 +108,6 @@ launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
-libclang==18.1.1
-librosa==0.10.2.post1
-libtpu-nightly==0.1.dev20240916+nightly
 llvmlite==0.43.0
 marisa-trie==1.2.1
 Markdown==3.7
