@@ -1,7 +1,6 @@
 absl-py==1.4.0
 accelerate==1.1.1
 altair==4.2.2
-annotated-types==0.7.0
 backcall==0.2.0A
 beautifulsoup4==4.12.3
 bleach==6.2.0
@@ -65,7 +64,6 @@ gym==0.25.2
 gym-notices==0.0.8
 h5py==3.12.1
 httplib2==0.20.2
-huggingface-hub==0.26.3
 idna==3.10
 imageio==2.36.1
 immutabledict==4.2.1
@@ -90,7 +88,6 @@ jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
 kagglehub==0.3.4
-keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.7
 langcodes==3.5.0
@@ -173,9 +170,7 @@ requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
 rich==13.9.4
-rpds-py==0.22.3
 rsa==4.9
-safetensors==0.4.5
 scikit-image==0.24.0
 scikit-learn==1.5.2
 scipy==1.13.1
@@ -199,21 +194,9 @@ srsly==2.4.8
 StrEnum==0.4.15
 sympy==1.13.1
 tenacity==9.0.0
-tensorboard==2.15.2
-tensorboard-data-server==0.7.2
-tensorflow-datasets==4.9.7
-tensorflow-estimator==2.15.0
-tensorflow-hub==0.16.1
-tensorflow-io-gcs-filesystem==0.37.1
-tensorflow-metadata==1.13.1
-tensorflow-probability==0.24.0
-tensorflow-text==2.15.0
-tensorstore==0.1.45
 termcolor==2.5.0
 terminado==0.18.1
 text-unidecode==1.3
-tf-slim==1.1.0
-tf_keras==2.15.1
 thinc==8.2.5
 threadpoolctl==3.5.0
 tifffile==2024.9.20
