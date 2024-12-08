@@ -109,7 +109,6 @@ fsspec==2024.10.0
 future==1.0.0
 gast==0.6.0
 gcsfs==2024.10.0
-GDAL==3.6.4
 gdown==5.2.0
 geemap==0.35.1
 gensim==4.3.3
@@ -364,7 +363,6 @@ pyerfa==2.0.1.5
 pygame==2.6.1
 pygit2==1.16.0
 Pygments==2.18.0
-PyGObject==3.42.1
 PyJWT==2.10.1
 pylibcugraph-cu12==24.10.0
 pylibraft-cu12==24.10.0
@@ -389,7 +387,6 @@ python-dateutil==2.8.2
 python-louvain==0.16
 python-slugify==8.0.4
 python-utils==3.9.1
-pytz==2024.2
 pyviz_comms==3.0.3
 PyYAML==6.0.2
 pyzmq==24.0.1
